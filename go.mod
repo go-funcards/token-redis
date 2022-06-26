@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/go-funcards/jwt v0.0.0-20220623161716-8f08bc5f4956
-	github.com/go-funcards/token v0.0.0-20220625004622-ee1fb5113d2c
+	github.com/go-funcards/token v0.0.0-20220626181150-60e70699861a
 	github.com/go-redis/redis/v8 v8.11.5
 )
 
